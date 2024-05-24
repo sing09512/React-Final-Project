@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Final-Project/static/css/main.783e9ac0.css",
+    "main.js": "/React-Final-Project/static/js/main.8b690094.js",
+    "static/js/453.5320080a.chunk.js": "/React-Final-Project/static/js/453.5320080a.chunk.js",
+    "static/media/202393-918066374_small.gif": "/React-Final-Project/static/media/202393-918066374_small.bbd2d1e6c1af9b2a2b11.gif",
+    "static/media/122495-725812858_medium.gif": "/React-Final-Project/static/media/122495-725812858_medium.acf8288f247f475a0719.gif",
+    "static/media/maldives-live-photo.gif": "/React-Final-Project/static/media/maldives-live-photo.fa828b13f77c78bf849d.gif",
+    "static/media/loading.gif": "/React-Final-Project/static/media/loading.706124a2c0232f216d63.gif",
+    "static/media/hotelTest.txt": "/React-Final-Project/static/media/hotelTest.d9189e4455512e32dec9.txt",
+    "static/media/homebanner.png": "/React-Final-Project/static/media/homebanner.568d8d2ce21453d10b26.png",
+    "index.html": "/React-Final-Project/index.html",
+    "main.783e9ac0.css.map": "/React-Final-Project/static/css/main.783e9ac0.css.map",
+    "main.8b690094.js.map": "/React-Final-Project/static/js/main.8b690094.js.map",
+    "453.5320080a.chunk.js.map": "/React-Final-Project/static/js/453.5320080a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.783e9ac0.css",
+    "static/js/main.8b690094.js"
+  ]
+}
